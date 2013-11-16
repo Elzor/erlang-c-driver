@@ -1,2 +1,1 @@
-mm_drv_xmpl
-===========
+erlang C driver example
